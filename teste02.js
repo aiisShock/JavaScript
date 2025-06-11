@@ -1,0 +1,1 @@
+var nomeUsuario = 'Robert';
